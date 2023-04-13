@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Class_Student\\Desktop\\square_matrices\\square_matrices.csproj",
+      "projectUniqueName": "C:\\Users\\Class_Student\\Desktop\\square_matrices-main\\square_matrices\\square_matrices.csproj",
       "projectName": "square_matrices",
-      "projectPath": "C:\\Users\\Class_Student\\Desktop\\square_matrices\\square_matrices.csproj",
+      "projectPath": "C:\\Users\\Class_Student\\Desktop\\square_matrices-main\\square_matrices\\square_matrices.csproj",
       "packagesPath": "C:\\Users\\Class_Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Class_Student\\Desktop\\square_matrices\\obj\\",
+      "outputPath": "C:\\Users\\Class_Student\\Desktop\\square_matrices-main\\square_matrices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Class_Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
